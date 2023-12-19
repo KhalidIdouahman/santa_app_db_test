@@ -1,0 +1,39 @@
+{
+  [
+  {
+  "character_id":"1",
+  "character_name":"santa",
+  "character_img":"http:\/\/twicev.com\/wallpaper2\/\/images\/wallpapers\/R1631536826.jpg",
+  "character_status":"Online",
+  "character_phone_num":"+1323486543",
+},
+    {
+  "character_id":"2",
+  "character_name":"jeffy",
+  "character_img":"http:\/\/twicev.com\/wallpaper2\/\/images\/wallpapers\/R1631536826.jpg",
+  "character_status":"Online",
+  "character_phone_num":"+1323486543",
+},
+        {
+  "character_id":"3",
+  "character_name":"Bowser Junior",
+  "character_img":"http:\/\/twicev.com\/wallpaper2\/\/images\/wallpapers\/R1631536826.jpg",
+  "character_status":"Online",
+  "character_phone_num":"+1323486543",
+},
+            {
+  "character_id":"4",
+  "character_name":"Cody",
+  "character_img":"http:\/\/twicev.com\/wallpaper2\/\/images\/wallpapers\/R1631536826.jpg",
+  "character_status":"Online",
+  "character_phone_num":"+1323486543",
+},
+                {
+  "character_id":"5",
+  "character_name":"Rosalina",
+  "character_img":"http:\/\/twicev.com\/wallpaper2\/\/images\/wallpapers\/R1631536826.jpg",
+  "character_status":"Online",
+  "character_phone_num":"+1323486543",
+},
+]
+}
